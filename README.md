@@ -25,7 +25,7 @@ El *Feature Engineering* se basa en resumir las series de tiempo (ventas y deman
 
 ---
 
-## 💡 Próximos Pasos (Ideas para Implementación Futura)
+## Próximos Pasos (Ideas para Implementación Futura)
 
 Las siguientes ideas representan las áreas de mejora y exploración que no se pudieron implementar por las limitaciones de tiempo:
 
